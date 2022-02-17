@@ -1,0 +1,992 @@
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master ea34cca] Commit
+ 1 file changed, 8 insertions(+)
+[master b7239db] Commit
+ 1 file changed, 4 insertions(+)
+[master f187e17] Commit
+ 1 file changed, 6 insertions(+)
+[master 8f0d519] Commit
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+[master 0533f7f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6fa8cb9] Commit
+ 1 file changed, 1 insertion(+)
+[master 22a72f1] Commit
+ 1 file changed, 23 insertions(+)
+[master cef0eba] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 6d838ee] Commit
+ 1 file changed, 1 insertion(+)
+[master 1a8fe15] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7aa097c] Commit
+ 1 file changed, 20 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master fb73db1] Commit
+ 1 file changed, 23 insertions(+)
+[master 01cdb4f] Commit
+ 1 file changed, 20 insertions(+)
+[master 1e16bd3] Commit
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master a46c341] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 20a7c1c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master aa18859] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7fc98fd] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 10e7c41] Commit
+ 1 file changed, 2 insertions(+)
+[master 8ae6a68] Commit
+ 1 file changed, 1 insertion(+)
+[master 6738ed3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dda3841] Commit
+ 1 file changed, 1 deletion(-)
+[master 5d5751a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a57ddf4] Commit
+ 1 file changed, 2 insertions(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 5376cc7] Commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master eea95bf] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 94247a9] Commit
+ 1 file changed, 43 insertions(+), 9 deletions(-)
+[master 0a54ce5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 366f08f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b76dc41] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master eadb07a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5f7eabd] Commit
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master 2cdd236] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 0f8cc9e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b199957] Commit
+ 1 file changed, 2 insertions(+)
+[master 83237d6] Commit
+ 1 file changed, 46 insertions(+), 1 deletion(-)
+[master 38ab082] Commit
+ 1 file changed, 12 insertions(+)
+[master 0052441] Commit
+ 1 file changed, 4 insertions(+)
+[master 590d61e] Commit
+ 1 file changed, 1 insertion(+), 11 deletions(-)
+[master eb7f519] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e07d9f4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f1b7e4f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 906f218] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7177759] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ee03e36] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0df8747] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0d8fb51] Commit
+ 1 file changed, 10 insertions(+)
+[master e86a24d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b632967] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3114f84] Commit
+ 1 file changed, 2 insertions(+), 6 deletions(-)
+[master e7cbb47] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master abe7c59] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 2a980e1] Commit
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+[master 4481c8a] Commit
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master 55a3eb9] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master bfb48fd] Commit
+ 1 file changed, 2 insertions(+)
+[master fcd7bc3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8426b4c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3e52ee7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a1ce69a] Commit
+ 1 file changed, 2 deletions(-)
+[master 9f9586d] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 505beb4] Commit
+ 1 file changed, 17 insertions(+), 9 deletions(-)
+[master 5757e1e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a8c7fae] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ace5d58] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e351faa] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0c37bca] Commit
+ 1 file changed, 2 insertions(+)
+[master 354031f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 9950bcc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master aa7520b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b1e971e] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master c1fd8bc] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master f3fa083] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 414ea50] Commit
+ 1 file changed, 9 insertions(+), 11 deletions(-)
+[master e911c4b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 330a52d] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 7f5a733] Commit
+ 1 file changed, 1 insertion(+), 27 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.daytime-server.cc.swp
+	.local.git.out
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 94dc81e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d6e70fa] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a4034f9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 834d341] Commit
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+[master a900b92] Commit
+ 1 file changed, 3 insertions(+)
+[master 7f172bb] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 347b7ae] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d7fcc00] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master a48c6c3] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 4d0135c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cf23110] Commit
+ 1 file changed, 6 insertions(+)
+[master 350d0c3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 44de1ca] Commit
+ 1 file changed, 29 insertions(+), 1 deletion(-)
+[master 5cfe6a7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e2e3371] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master e8141a3] Commit
+ 1 file changed, 10 insertions(+), 3 deletions(-)
+[master b7a1f23] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 98ee1bb] Commit
+ 1 file changed, 15 insertions(+), 12 deletions(-)
+[master 5be5070] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 71a908b] Commit
+ 1 file changed, 4 insertions(+)
+[master 16ed9a4] Commit
+ 1 file changed, 20 insertions(+), 1 deletion(-)
+[master d00e8a9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15845a0] Commit
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+[master 0634b10] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7bb551b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ebc2771] Commit
+ 1 file changed, 4 insertions(+)
+[master 600f79f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 12f9dfd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b62a3d9] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 0f92dde] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master d9b405b] Commit
+ 1 file changed, 2 insertions(+)
+[master 08f87f4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3518f93] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8775750] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a07a254] Commit
+ 1 file changed, 27 insertions(+), 3 deletions(-)
+[master 42dc7ac] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2d3af55] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ebdc920] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a80b2de] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master eb520d8] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master c9e1946] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1a0c6e2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1ece194] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b81a6cd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 29c2a37] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master f0bae81] Commit
+ 1 file changed, 34 insertions(+)
+[master 73f6731] Commit
+ 1 file changed, 72 insertions(+), 4 deletions(-)
+[master c56bf44] Commit
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+[master 068e3d8] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8aa4c70] Commit
+ 1 file changed, 11 insertions(+), 14 deletions(-)
+[master 540d296] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 5aa0f71] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8704504] Commit
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+[master 828c966] Commit
+ 1 file changed, 14 insertions(+), 8 deletions(-)
+[master ab36f84] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master d649705] Commit
+ 1 file changed, 8 insertions(+), 13 deletions(-)
+[master 8363e95] Commit
+ 1 file changed, 1 insertion(+), 14 deletions(-)
+[master cd0399a] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f8f3dae] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/simple.html
+	index.html
+	simple.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master e9ea6ee] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master cd18c8e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 39eff3e] Commit
+ 1 file changed, 22 insertions(+), 4 deletions(-)
+[master b36349f] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 54527b0] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f85d8f2] Commit
+ 1 file changed, 5 insertions(+), 6 deletions(-)
+[master 08526f8] Commit
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+[master 150e7b3] Commit
+ 1 file changed, 8 insertions(+), 10 deletions(-)
+[master c13e337] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 8f5e509] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b933ddd] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 974716d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fa74b2b] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master dfd023a] Commit
+ 1 file changed, 41 insertions(+)
+[master cfd6557] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bf0e69c] Commit
+ 1 file changed, 2 insertions(+)
+[master faf6730] Commit
+ 1 file changed, 2 insertions(+)
+[master 83a3bbe] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 70e294e] Commit
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+[master 81c3f1e] Commit
+ 1 file changed, 15 insertions(+), 5 deletions(-)
+[master 49ed004] Commit
+ 1 file changed, 1 insertion(+)
+[master 6924dbb] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1dab520] Commit
+ 1 file changed, 2 deletions(-)
+[master 38dcd00] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/simple.html
+	index.html
+	password.txt
+	simple.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/simple.html
+	index.html
+	password.txt
+	simple.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 35cac52] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0789d53] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master bbdd55a] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 61207eb] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 101c1e5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ecbca37] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 61b49ed] Commit
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+[master 4b96a53] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2f79eed] Commit
+ 1 file changed, 9 insertions(+), 8 deletions(-)
+[master 26c3dca] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 875a0ce] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 7c9c237] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 0095ba7] Commit
+ 1 file changed, 22 insertions(+)
+[master 9448fd9] Commit
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master b5cd930] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cc8a2f4] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master cedb44e] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master a9b88f7] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2604992] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master e0ab0aa] Commit
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master 0c78824] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f01ffa3] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master c6b8e14] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 66453f4] Commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 4d2d5fd] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+[master 8c720ca] Commit
+ 1 file changed, 1 insertion(+)
+[master 28e4f92] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3a343b9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fbb9fa4] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 7e1a69c] Commit
+ 1 file changed, 1 insertion(+)
+[master b95bd47] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 875be41] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c24045e] Commit
+ 1 file changed, 6 insertions(+)
+[master d0e7396] Commit
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 89a08bc] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 15e9558] Commit
+ 1 file changed, 13 insertions(+), 13 deletions(-)
+[master 1e7258d] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 66f840a] Commit
+ 1 file changed, 1 insertion(+)
+[master f1c39f9] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 706f275] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 2dfcba7] Commit
+ 1 file changed, 2 insertions(+)
+[master 32414d4] Commit
+ 1 file changed, 3 insertions(+)
+[master e729022] Commit
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+[master 19abf6a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1d15831] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 939780d] Commit
+ 1 file changed, 3 insertions(+)
+[master 6830116] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master eefd939] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4401e71] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0b6add5] Commit
+ 1 file changed, 25 insertions(+), 1 deletion(-)
+[master 45314d9] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 69407fb] Commit
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master da7cd70] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master bfad11c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8ac4b3d] Commit
+ 1 file changed, 1 insertion(+)
+[master 44b1c34] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 4285648] Commit
+ 1 file changed, 1 insertion(+)
+[master 0e16e4c] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master aa1f93c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fde10ac] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 3c52190] Commit
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+[master 0791d45] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3951392] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 5c2a83d] Commit
+ 1 file changed, 4 insertions(+)
+[master 91f501d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d27d900] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master ce72b61] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master b4285cd] Commit
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+[master 521c616] Commit
+ 1 file changed, 1 insertion(+), 13 deletions(-)
+[master 4a81047] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fbb336e] Commit
+ 1 file changed, 1 insertion(+)
+[master 35b2bcd] Commit
+ 1 file changed, 2 insertions(+)
+[master 18c71f2] Commit
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master e7f1cfe] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master cfbad05] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 7a4aaed] Commit
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+[master 735fe47] Commit
+ 1 file changed, 14 insertions(+), 2 deletions(-)
+[master 1b20c65] Commit
+ 1 file changed, 34 insertions(+), 4 deletions(-)
+[master 4f45b6c] Commit
+ 1 file changed, 4 insertions(+), 7 deletions(-)
+[master 90cd231] Commit
+ 1 file changed, 1 insertion(+)
+[master 71b6f4f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 198038a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 394508c] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master ab4ca02] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master e90eaf3] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 88de424] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 527e28b] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master c6d0d3e] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 99cde8a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fe73d02] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master c6fbd59] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 14e32fc] Commit
+ 1 file changed, 226 insertions(+), 3 deletions(-)
+[master cc392d2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 373317b] Commit
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/simple.html
+	index.html
+	password.txt
+	simple.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 93ad69c] Commit
+ 1 file changed, 9 insertions(+)
+[master 53740da] Commit
+ 1 file changed, 18 insertions(+)
+[master 11a7a4e] Commit
+ 1 file changed, 1 insertion(+)
+[master b703be7] Commit
+ 1 file changed, 4 insertions(+)
+[master 78dccbd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 6f969fd] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8af790a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d9e69a3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f0ce203] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5cd3b03] Commit
+ 1 file changed, 17 insertions(+), 2 deletions(-)
+[master 58b19e0] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 94684d2] Commit
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+[master c16df71] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 618a8cc] Commit
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 31e7905] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master de1d378] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ca377d3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 008151c] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 26ed13b] Commit
+ 1 file changed, 6 insertions(+), 5 deletions(-)
+[master 39aeecb] Commit
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 8f0238a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master a378961] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 4572179] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f872a5a] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7dff3e3] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dbeb722] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 88b94a2] Commit
+ 1 file changed, 26 insertions(+), 15 deletions(-)
+[master 95fde21] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 18374c9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 63a2f44] Commit
+ 1 file changed, 103 insertions(+), 1 deletion(-)
+[master 1411f36] Commit
+ 1 file changed, 7 insertions(+), 6 deletions(-)
+[master f762637] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 93d025d] Commit
+ 1 file changed, 3 insertions(+)
+[master 90aa3f7] Commit
+ 1 file changed, 1 insertion(+)
+[master a652e70] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 56e64c9] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1a8a4d4] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0112ebc] Commit
+ 1 file changed, 13 insertions(+), 9 deletions(-)
+[master fc4f1ba] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 3449ae0] Commit
+ 2 files changed, 22 insertions(+)
+ create mode 100755 util.h
+[master f6324f6] Commit
+ 1 file changed, 1 insertion(+)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/htdocs/logs
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 7629f16] Commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100755 http-root-dir/cgi-bin/query
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/htdocs/logs
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/htdocs/logs
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 0b506e2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master b2f005b] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 786213f] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 0156d7f] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 0c8c7c1] Commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/cgi-bin/jj-mod.so
+	http-root-dir/htdocs/logs
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 6acd2c2] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 248c62f] Commit
+ 7 files changed, 9 insertions(+), 12 deletions(-)
+ rewrite http-root-dir/cgi-bin/post-query (88%)
+ rewrite http-root-dir/cgi-src/post-query.o (96%)
+ rewrite http-root-dir/cgi-src/query.o (97%)
+ rewrite http-root-dir/cgi-src/util.o (98%)
+[master 93afabf] Commit
+ 4 files changed, 1 insertion(+), 1 deletion(-)
+ mode change 100644 => 100755 http-root-dir/cgi-src/post-query.o
+ mode change 100644 => 100755 http-root-dir/cgi-src/query.o
+ mode change 100644 => 100755 http-root-dir/cgi-src/util.o
+[master fe12b0d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7ef9d3a] Commit
+ 1 file changed, 2 insertions(+)
+[master a6ba14d] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/cgi-bin/hello.so
+	http-root-dir/cgi-bin/jj
+	http-root-dir/cgi-bin/jj-mod.so
+	http-root-dir/cgi-bin/query
+	http-root-dir/cgi-src/hello.so
+	http-root-dir/cgi-src/jj-mod.c
+	http-root-dir/cgi-src/jj-mod.o
+	http-root-dir/cgi-src/jj-mod.so
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/htdocs/logs
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	jj-mod.so
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 568cd52] Commit
+ 1 file changed, 21 insertions(+), 20 deletions(-)
+[master 94fd138] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master 0136c95] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 876bbdb] Commit
+ 1 file changed, 1 insertion(+)
+[master 09cece7] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master b90dded] Commit
+ 1 file changed, 43 insertions(+)
+[master b24d4c1] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8034556] Commit
+ 1 file changed, 1 insertion(+)
+[master 0c5c35b] Commit
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+[master dea5353] Commit
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+[master dee322d] Commit
+ 7 files changed, 36 insertions(+), 111 deletions(-)
+ rewrite http-root-dir/cgi-bin/post-query (92%)
+ rewrite http-root-dir/cgi-src/post-query.o (95%)
+ rewrite http-root-dir/cgi-src/query.o (97%)
+ rewrite http-root-dir/cgi-src/util.o (95%)
+[master a353aac] Commit
+ 1 file changed, 1 deletion(-)
+[master bfd1e6f] Commit
+ 1 file changed, 21 insertions(+), 20 deletions(-)
+[master 09f4eff] Commit
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 21799e6] Commit
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+[master 6409e96] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 6af325b] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master d7ca642] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d14fa4d] Commit
+ 1 file changed, 18 insertions(+), 20 deletions(-)
+[master 4654dfa] Commit
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+[master 7e87ae9] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 1f63f76] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 48465ba] Commit
+ 1 file changed, 24 insertions(+), 24 deletions(-)
+[master ac67fbb] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 73b56da] Commit
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master 4262304] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/cgi-bin/hello.so
+	http-root-dir/cgi-bin/imagemap
+	http-root-dir/cgi-bin/jj
+	http-root-dir/cgi-bin/jj-mod.so
+	http-root-dir/cgi-bin/phf
+	http-root-dir/cgi-bin/query
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/hello.so
+	http-root-dir/htdocs/logs
+	http-root-dir/htdocs/stats
+	http-root-dir/icons/back.gif
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	jj-mod.so
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master c6f27d5] Commit
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 18ee446] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 90262a1] Commit
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+[master bb3412d] Commit
+ 1 file changed, 12 insertions(+), 12 deletions(-)
+[master 738aeda] Commit
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+[master 171e5d0] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master adb2379] Commit
+ 1 file changed, 24 insertions(+), 18 deletions(-)
+[master 9bcda0c] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 3ae6322] Commit
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+[master 9d5c684] Commit
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+[master e632eb6] Commit
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master c164e04] Commit
+ 1 file changed, 16 insertions(+), 4 deletions(-)
+[master 7f480dc] Commit
+ 2 files changed, 38 insertions(+), 36 deletions(-)
+[master 9cfe1f2] Commit
+ 1 file changed, 3 deletions(-)
+[master 120506b] Commit
+ 1 file changed, 20 insertions(+), 20 deletions(-)
+[master 2eda2e3] Commit
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 0045949] Commit
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master bcd1984] Commit
+ 1 file changed, 14 insertions(+), 14 deletions(-)
+[master 5b037ae] Commit
+ 1 file changed, 15 insertions(+), 15 deletions(-)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	http-root-dir/cgi-bin/hello.so
+	http-root-dir/cgi-bin/imagemap
+	http-root-dir/cgi-bin/jj
+	http-root-dir/cgi-bin/jj-mod.so
+	http-root-dir/cgi-bin/phf
+	http-root-dir/cgi-bin/query
+	http-root-dir/cgi-src/imagemap.o
+	http-root-dir/cgi-src/jj.o
+	http-root-dir/cgi-src/phf.o
+	http-root-dir/hello.so
+	http-root-dir/htdocs/logs
+	http-root-dir/htdocs/stats
+	http-root-dir/icons/back.gif
+	http-root-dir/simple.html
+	index.html
+	jj-mod.c
+	jj-mod.so
+	password.txt
+	simple.html
+	util.c
+
+nothing added to commit but untracked files present (use "git add" to track)
